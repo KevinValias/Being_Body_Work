@@ -5381,7 +5381,7 @@ a.btn-fx:hover:before,
     transition: .5s ease;
     outline: none;
 }
-/* .img-url, 
+.img-url, 
 .picframe img {
     -o-transition: 1.5s ease;
     -ms-transition: 1.5s ease;
@@ -5389,7 +5389,7 @@ a.btn-fx:hover:before,
     -webkit-transition: 1.5s ease;
     transition: 1.5s ease;
     outline: none;
-} */
+}
 .mask .cover div,
 .mask .cover p,
 .mask .text,
