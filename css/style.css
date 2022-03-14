@@ -5381,7 +5381,7 @@ a.btn-fx:hover:before,
     transition: .5s ease;
     outline: none;
 }
-/* .img-url, removed */
+.img-url, 
 .picframe img {
     -o-transition: 1.5s ease;
     -ms-transition: 1.5s ease;
