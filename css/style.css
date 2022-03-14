@@ -5381,7 +5381,7 @@ a.btn-fx:hover:before,
     transition: .5s ease;
     outline: none;
 }
-.img-url, 
+/* .img-url, 
 .picframe img {
     -o-transition: 1.5s ease;
     -ms-transition: 1.5s ease;
@@ -5389,7 +5389,7 @@ a.btn-fx:hover:before,
     -webkit-transition: 1.5s ease;
     transition: 1.5s ease;
     outline: none;
-}
+} */
 .mask .cover div,
 .mask .cover p,
 .mask .text,
@@ -6768,7 +6768,7 @@ animation: blink 0.7s infinite;
     overflow: hidden;
 }
 .img-fx img {
-    display: none;
+    display:none;
 }
 .img-url {
     position: absolute;
